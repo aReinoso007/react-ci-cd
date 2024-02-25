@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Addint testing with Jest
 
 1. Install the following libs
@@ -61,3 +62,7 @@ Add a script to the `package.json` file to make it easier
         "test": "jest"
     }
 ```
+=======
+# react-ci-cd
+react-ci-cd
+>>>>>>> main
